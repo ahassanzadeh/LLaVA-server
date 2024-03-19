@@ -11,7 +11,7 @@ classifiers = [
     "Programming Language :: Python :: 3",
 ]
 dependencies = [
-    "llava @ git+https://github.com/haotian-liu/LLaVA.git@0818b7a9063a6f30e62d6aa763fadcd4e0d96c77",
+    # "llava @ git+https://github.com/haotian-liu/LLaVA.git@0818b7a9063a6f30e62d6aa763fadcd4e0d96c77",
     "bert-score==0.3.13",
     "flask==2.3.2",
     "gunicorn==20.1.0"
